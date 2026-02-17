@@ -2,6 +2,6 @@ git clone https://github.com/codingacharya/multialgo.git
 
 cd multialgo
 
-pip install streamlit yfinance pandas numpy scikit-learn xgboost plotly
+python -m pip install streamlit yfinance pandas numpy scikit-learn xgboost plotly
 
-streamlit run multialgo.py
+python -m streamlit run app1.py
